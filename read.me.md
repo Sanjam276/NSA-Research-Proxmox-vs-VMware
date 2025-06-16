@@ -53,4 +53,4 @@ Check out our comparison below!
 
 ![Proxmox GUI Screenshot](https://4sysops.com/wp-content/uploads/2023/01/Creating-a-snapshot-in-Proxmox-using-the-web-based-GUI.png)
 ![VMware ESXi Screenshot](![WhatsApp Image 2025-06-16 at 01 07 31_54248e20](https://github.com/user-attachments/assets/a815a167-2403-4690-a2ab-a34bb1dac08a)
-)
+
