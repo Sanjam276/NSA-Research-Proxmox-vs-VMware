@@ -1,32 +1,32 @@
-# Virtualization in NSA: Proxmox vs VMware – A Student Perspective
+# Virtualization in NSA: Proxmox vs VMware A Student Perspective
 
 ## LinkedIn-style Post
 
-💻 **Exploring Virtualization: Proxmox vs VMware – What’s Best for Small Setups?**
+**Exploring Virtualization: Proxmox vs VMware What’s Best for Small Setups?**
 
-As students diving into the world of IT infrastructure, our team explored two powerful hypervisors—**Proxmox Virtual Environment (VE)** and **VMware ESXi**—to see which one best fits small-scale and educational environments, like those used in NSA labs or home labs.
+As students exploring IT infrastructure, our team examined two powerful hypervisors, **Proxmox Virtual Environment (VE)** and **VMware ESXi**, to determine which one is better suited for small-scale and educational settings, such as those used in NSA labs or home labs.
 
-🔍 **Ease of Use**  
-Proxmox offers a web-based GUI with integrated LXC and KVM virtualization, making VM and container management seamless. VMware’s vSphere/ESXi interface is polished but often tied to vCenter for full functionality, which adds complexity and cost.
+**Ease of Use**  
+Proxmox has a web-based GUI with integrated LXC and KVM virtualization, making VM and container management easy. VMware’s vSphere/ESXi interface looks good but often relies on vCenter for full functionality, which adds complexity and cost.
 
-⚙️ **Features**  
-- **Proxmox**: Open-source, includes built-in clustering, backup, ZFS support, and a vibrant community.  
-- **VMware**: Industry-standard reliability, strong snapshotting and HA tools, but many advanced features are behind a paywall.
+**Features**  
+- **Proxmox**: Open-source, comes with built-in clustering, backup, ZFS support, and a lively community.  
+- **VMware**: Known for reliability, has strong snapshotting and HA tools, but many advanced features require payment.
 
-💸 **Licensing**  
-Proxmox is free and open-source, with paid support available. VMware ESXi has a free tier, but it’s limited (e.g., no vStorage APIs or vCenter integration). Licensing costs can add up for students or small institutions.
+**Licensing**  
+Proxmox is free and open-source, with the option for paid support. VMware ESXi has a free tier, but it’s limited (e.g., no vStorage APIs or vCenter integration). Licensing costs can add up for students or small institutions.
 
-🏠 **Why Proxmox for Small Setups?**  
-For students or small labs, **Proxmox** stands out due to its simplicity, full feature access, and zero-cost licensing. It’s ideal for experimentation, learning clustering, and testing backup strategies. VMware remains dominant in enterprises, so exposure to both is beneficial—but Proxmox is our pick for flexibility and accessibility.
+**Why Proxmox for Small Setups?**  
+For students or small labs, **Proxmox** is appealing because of its simplicity, full feature access, and no-cost licensing. It’s great for experimentation, learning clustering, and testing backup strategies. VMware is still the main player in enterprises, so experiencing both is helpful—but we think Proxmox is better for flexibility and accessibility.
 
-✅ Whether you're setting up a homelab or learning server virtualization, choosing the right hypervisor shapes your experience—and Proxmox makes that journey smoother.
+Whether you're creating a homelab or learning about server virtualization, choosing the right hypervisor will shape your experience, and Proxmox makes that journey easier.
 
-🔗 Check out our comparison below!
+Check out our comparison below!
 
 ## Team Members
 
-- jashandeep singh
-- sanjam kaur
+- Sanjam kaur
+- Jashandeep singh
 
 ## Key Comparison Table
 
@@ -51,8 +51,6 @@ For students or small labs, **Proxmox** stands out due to its simplicity, full f
 
 ## Optional Media
 
-![Proxmox GUI Screenshot](screenshots/proxmox-gui.png)
-![VMware ESXi Screenshot](screenshots/vmware-gui.png)
-
----
-
+![Proxmox GUI Screenshot](https://4sysops.com/wp-content/uploads/2023/01/Creating-a-snapshot-in-Proxmox-using-the-web-based-GUI.png)
+![VMware ESXi Screenshot](![WhatsApp Image 2025-06-16 at 01 07 31_54248e20](https://github.com/user-attachments/assets/a815a167-2403-4690-a2ab-a34bb1dac08a)
+)
