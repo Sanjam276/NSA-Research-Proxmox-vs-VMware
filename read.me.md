@@ -23,11 +23,6 @@ Whether you're creating a homelab or learning about server virtualization, choos
 
 Check out our comparison below!
 
-## Team Members
-
-- Sanjam kaur
-- Jashandeep singh
-
 ## Key Comparison Table
 
 | Feature             | Proxmox VE                      | VMware ESXi                    |
@@ -39,6 +34,11 @@ Check out our comparison below!
 | Clustering          | Built-in                        | Requires vCenter               |
 | Storage Support     | ZFS, Ceph, LVM, NFS, iSCSI       | VMFS, NFS, iSCSI               |
 | Use Case Fit        | Best for learning/small labs     | Best for enterprise/production |
+
+## Team Members
+
+- Sanjam kaur
+- Jashandeep singh
 
 ## References
 
